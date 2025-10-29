@@ -59,5 +59,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "text-processing",
+      "title": "Text Processing in Python",
+      "description": "String manipulation, parsing, and basic text analytics.",
+      "path": "assignments/text-processing",
+      "dueDate": "2025-11-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
